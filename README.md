@@ -1,4 +1,4 @@
-# legolas-vim
+# my-vim
 
 [![Build Status](https://travis-ci.org/TTWShell/legolas-vim.svg?branch=master)](https://travis-ci.org/TTWShell/legolas-vim)
 
